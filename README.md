@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shlok120
+- 👋 Hi, I’m Unique
 - 👀 I’m interested in Android and Web Developement
-- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
