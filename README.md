@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **Next.js, Cyber Security**
 
-- 👯 I’m looking to collaborate on **..**
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 🤝 I’m looking for help with **me**
+
+- 💬 Ask me about **Web, Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
